@@ -1,0 +1,14 @@
+{
+  "name": "lesson-kit",
+  "owner": {
+    "name": "Adithya Firmansyah Putra"
+  },
+  "description": "Make Claude Code remember your corrections across sessions",
+  "plugins": [
+    {
+      "name": "lesson-kit",
+      "source": ".",
+      "description": "Correct your AI once. It notes the correction and applies it in your next sessions."
+    }
+  ]
+}
